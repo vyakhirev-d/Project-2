@@ -440,6 +440,7 @@ list-style: none;
    .header_content{
     position-top: 0;
     justify-content: center;
+    text-align: center;
   }
   .header_social {
     padding: 30px 0 20px 0px;
